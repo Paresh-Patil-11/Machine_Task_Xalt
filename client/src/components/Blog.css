@@ -1,0 +1,17 @@
+
+#card{
+    margin:2rem;
+}
+
+h2{
+    background-color:lightblue
+}
+#forms{
+    background-color:lightgray;
+    width:50rem;
+    margin:1rem auto;
+}
+
+input{
+    margin:1rem;
+}
